@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "f:\\Font-end\\F8-shop",
+      "environment": [],
+      "program": "f:\\Font-end\\F8-shop\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "F:\\Dev-Cpp\\MinGW64\\bin\\gdb.exe",
+      "externalConsole": false
+    }
+  ]
+}
